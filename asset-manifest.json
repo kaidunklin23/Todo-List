@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kaidunklin23/Todo-List.git/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/kaidunklin23/Todo-List.git/static/js/main.d1432574.chunk.js",
+    "main.js.map": "/kaidunklin23/Todo-List.git/static/js/main.d1432574.chunk.js.map",
+    "runtime-main.js": "/kaidunklin23/Todo-List.git/static/js/runtime-main.d97739f2.js",
+    "runtime-main.js.map": "/kaidunklin23/Todo-List.git/static/js/runtime-main.d97739f2.js.map",
+    "static/js/2.12e6d84c.chunk.js": "/kaidunklin23/Todo-List.git/static/js/2.12e6d84c.chunk.js",
+    "static/js/2.12e6d84c.chunk.js.map": "/kaidunklin23/Todo-List.git/static/js/2.12e6d84c.chunk.js.map",
+    "index.html": "/kaidunklin23/Todo-List.git/index.html",
+    "precache-manifest.782752518bac8dc32f251e108e1011c6.js": "/kaidunklin23/Todo-List.git/precache-manifest.782752518bac8dc32f251e108e1011c6.js",
+    "service-worker.js": "/kaidunklin23/Todo-List.git/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/kaidunklin23/Todo-List.git/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.12e6d84c.chunk.js.LICENSE.txt": "/kaidunklin23/Todo-List.git/static/js/2.12e6d84c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d97739f2.js",
+    "static/js/2.12e6d84c.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.d1432574.chunk.js"
+  ]
+}
